@@ -25,7 +25,7 @@ source venv/bin/activate
 ```
 Install the requirements
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 Make sure you have the chromedriver in your PATH. Take a look at the `constants.py` file. That's where I put my path. You can update the constant on your end with the right path to the chromedriver executable.
 
@@ -45,3 +45,7 @@ Or run one of the other ones. Explore, break it, fix it, have fun with it.
 ## Planned Updates
 * Add more sites. 
 * Make the bot 'trainable'
+
+# Notice:
+
+Good luck. This will not guarantee anything, but it's worth a shot. Even if you weren't able to get a PS5, I hope this taught you something about automation and stuff. 
