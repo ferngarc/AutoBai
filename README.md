@@ -1,6 +1,6 @@
 # AutoBai
 
-Created to even the playing field against scalpers. Seriously, fuck those guys. Damn near ruined Christmas. 
+Created to even the playing field against scalpers. Damn near ruined Christmas. 
 
 This script so far ONLY works on Walmart. But I plan on adding more features to this later. 
 
